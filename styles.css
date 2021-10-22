@@ -1,0 +1,63 @@
+h1
+{
+	text-align: right;
+	margin: 10px 40px;
+	margin-right: 170px;
+}
+
+
+/*#btn
+{
+	float: right;
+	margin-top:90px ;
+	font-size: 1rem;
+	margin-right: -290px;
+	margin-right: 10px;
+}*/
+.numbers div
+{
+	
+	
+	display: inline-block;
+	font-size: 3rem;
+	margin: 50px 20px;
+	/*margin-right:-110px */;
+	margin-top:200px ;
+
+}
+
+.alphabets div
+{
+	display: inline-block;
+	font-size: 2.5rem;
+	margin: 0 10px;
+}
+ .Hour
+{
+	margin:0 5px;
+}
+.Day
+{
+	margin:0 25px;
+}
+
+.numbers
+{
+	text-align: right;
+	margin: 20px 5px;
+}
+.alphabets
+{
+	text-align: right;
+	margin: 20px 5px;
+	font-style: bold;
+}
+body
+{
+
+	background-image: url("countdown.jpg");
+	background-repeat: no-repeat;
+	height: 500px;
+	widows: 600px;
+	
+}
